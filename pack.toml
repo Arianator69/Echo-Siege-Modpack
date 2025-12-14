@@ -1,0 +1,13 @@
+name = "Echo Siege"
+author = "Chrissy_Goddess"
+version = "0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "513a26a84161eb7f0c5e868930de04c256ba05b6419014177a2d2eb23728cf33"
+
+[versions]
+fabric = "0.17.2"
+minecraft = "1.21"
