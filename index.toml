@@ -1,16 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/architectury-api.pw.toml"
-hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
-metafile = true
-
-[[files]]
-file = "mods/axiom.pw.toml"
-hash = "b16906634dc8b2a07d43cdc6ba766e642e18458f7e7b9aaef8a374e5e7fd04dc"
-metafile = true
-
-[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "3d901343bdcb30f4abcbf8801c2bef2f2fa1921dc4f4fca0ea445e989c353b24"
 metafile = true
@@ -23,11 +13,6 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "e65f1856eed8725712eb26dd607cbed73de44b430bb069ba543ff706b35b2603"
-metafile = true
-
-[[files]]
-file = "mods/freecam.pw.toml"
-hash = "518e512a141b3b331ecaafaf315a9636f9eadf211c0df39395109e8dbf588a54"
 metafile = true
 
 [[files]]
