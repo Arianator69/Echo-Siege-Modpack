@@ -5,58 +5,6 @@ file = "configureddefaults/README.md"
 hash = "7d856d3f9655abc661ac67b450a0c956bbf80323786b407301fbdca02d2c5b8b"
 
 [[files]]
-file = "configureddefaults/journeymap/config/6.0/journeymap.core.config"
-hash = "100a1bfb658093d203033a0b83e3757d8182ade733cf953cfbaa216e23018ef2"
-
-[[files]]
-file = "configureddefaults/journeymap/config/6.0/journeymap.fullmap.config"
-hash = "d69c664aee3818c283283d635f3c570e516e207be74abc5e63869bee1d82859b"
-
-[[files]]
-file = "configureddefaults/journeymap/config/6.0/journeymap.minimap.config"
-hash = "f67a65fdd7b2799365dfb1f0fc1e25296089032b3653628231afecb1c4ac13b7"
-
-[[files]]
-file = "configureddefaults/journeymap/config/6.0/journeymap.minimap2.config"
-hash = "dc44acf211f9942241b6882b9f5dfa2a92557c9adedc6a2ed622bf6ba28fc653"
-
-[[files]]
-file = "configureddefaults/journeymap/config/6.0/journeymap.rendering.config"
-hash = "59139373798af345188a9a11a0dd317ae39a5749d575cb0dbbfd481732c5caf7"
-
-[[files]]
-file = "configureddefaults/journeymap/config/6.0/journeymap.topo.config"
-hash = "2f6e8125fa9f35e0c700d49c908e0d60216d6d1cced17701351a174995570535"
-
-[[files]]
-file = "configureddefaults/journeymap/config/6.0/journeymap.waypoint.config"
-hash = "7287dec673c3f9a35552561364163420f5eb7a4849cd4e3a7cafe6191210b38f"
-
-[[files]]
-file = "configureddefaults/journeymap/config/6.0/journeymap.webmap.config"
-hash = "17fbf319709adeec6b71ead4ed0a2fc37210795257ab370c251ec36893c2253c"
-
-[[files]]
-file = "configureddefaults/journeymap/server/6.0/journeymap.server.default.config"
-hash = "55a7dcffc836d0ab16a9c24ed06f5aebb7cc93c3f16b2d52c821090866958bb3"
-
-[[files]]
-file = "configureddefaults/journeymap/server/6.0/journeymap.server.global.config"
-hash = "6f17596012f9e1b4745bd29fe25d7c4e9d212e4cde6451f737dc2afe0441f072"
-
-[[files]]
-file = "configureddefaults/journeymap/server/6.0/journeymap.server.minecraft~overworld.config"
-hash = "c4f3b8db82ef017cb0d85806a2f12d6e0e240feb6ac582eb2050ce2bc027f2f3"
-
-[[files]]
-file = "configureddefaults/journeymap/server/6.0/journeymap.server.minecraft~the_end.config"
-hash = "05e11170b8375bfa0c184d8848e27688907b99d7e5052c70d7e0e98144d45052"
-
-[[files]]
-file = "configureddefaults/journeymap/server/6.0/journeymap.server.minecraft~the_nether.config"
-hash = "d59cbe25cd1703999467943f7f5dc1e3ae63af8ea36bfd3913897d0b7cb92f67"
-
-[[files]]
 file = "configureddefaults/resourcepacks/Faithful 64x - September 2025 Release.zip"
 hash = "3e49ac823a44c92fa22d2dfec714f0ba7ddff19f6c0525f69c21897c8d926a59"
 
