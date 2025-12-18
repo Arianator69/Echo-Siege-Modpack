@@ -2,6 +2,6 @@
 # See https://git-scm.com/docs/gitignore
 
 # Exclude README
-# /README.md
-# /.vscode
-# static.yml
+/README.md
+/.vscode
+/.github*
