@@ -5,3 +5,10 @@
 *readme.md
 /.vscode
 /.github*
+/config
+/journeymap
+/resourcepacks
+*.nbt
+*.png
+*.json
+*options.txt
