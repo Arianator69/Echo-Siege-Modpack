@@ -1,18 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/static.yml"
-hash = "02ac0922213428cbe3a89bb96bd4b2eeb48c4cb6a0d2d61ae26c7c12aecaac88"
-
-[[files]]
-file = "instance.cfg"
-hash = "d504d4b821b3b28ef66fb4724880337c08361e840da83c7cf9d009351241f695"
-
-[[files]]
-file = "mmc-pack.json"
-hash = "03352e930c741242e88ad0068760b2740420f16c1675bf854b4daa4b5aa989ce"
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "1502d3ac2c2ce4d3dc4c2db6ca6e95fb2a5d4a279e6e1413f6c427be222887a0"
 metafile = true
@@ -145,10 +133,6 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "7f53fafad129feb18ca5b1d73d764990b4c7577f6633bdd36b3e7038a8eb3a0a"
-
-[[files]]
-file = "patches/org.lwjgl3.json"
-hash = "40c1f16306230f0885f05a613685a4ae284b03235795500f6d898ab9edc7e8d4"
 
 [[files]]
 file = "readme.md"
