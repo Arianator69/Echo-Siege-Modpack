@@ -5,8 +5,8 @@
 *readme.md
 /.vscode
 /.github*
-/config
-/journeymap
+config/
+journeymap/
 /resourcepacks
 *.nbt
 *.png
