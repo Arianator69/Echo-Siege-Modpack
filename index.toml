@@ -26,6 +26,11 @@ hash = "0fc46535baa2b4d05786d64803e0161e2ec2e408d0337e047ff81543ac8f0eaa"
 metafile = true
 
 [[files]]
+file = "mods/dine.pw.toml"
+hash = "9bc273d7e8139c973608f4556608e36e271f309d5a8fcc075322bcc4b20fe43d"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "0345fbfa8542b5ec84535fe2aff0f5cc4e801ecc337f926d4e2310b53f458569"
 metafile = true
@@ -43,11 +48,6 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "a077e0482f50add9ef20e962a7939aa678583cb3f354fb6b6124219badafdd4d"
-metafile = true
-
-[[files]]
-file = "mods/jei.pw.toml"
-hash = "df9caac85440c70a67a56a2b552f47a6b749a5e9df708ee2e6849c76a9686e6f"
 metafile = true
 
 [[files]]
@@ -91,6 +91,11 @@ hash = "81cc0f80816be9c95b82354d4e1aaee5818513795f706e403ff93c063d3601ad"
 metafile = true
 
 [[files]]
+file = "mods/servux.pw.toml"
+hash = "40851322be130d051190af0a939c36799d676e94c1ae3e555eacefe1ff28648c"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "bb7064282571976ed2bbe266bcf5e525d6d661aeea89649e4d604327973cf92d"
 metafile = true
@@ -124,14 +129,6 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "22052f42b1b73226d9508ef42af962471c79c7daa281aac66a82a90c7d7bb9e5"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "7f53fafad129feb18ca5b1d73d764990b4c7577f6633bdd36b3e7038a8eb3a0a"
-
-[[files]]
-file = "readme.md"
-hash = "31c6863eab9e7eac6a3a99628347fe6ed390764f978b6a124d5ca010d37e2203"
 
 [[files]]
 file = "servers.dat"
