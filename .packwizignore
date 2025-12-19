@@ -5,8 +5,4 @@
 *readme.md
 .vscode
 .github*
-resourcepacks/
-*.nbt
-*.png
-*.json
-*options.txt
+.DS_Store

@@ -5,6 +5,38 @@ file = ".minecraft/configureddefaults/README.md"
 hash = "7d856d3f9655abc661ac67b450a0c956bbf80323786b407301fbdca02d2c5b8b"
 
 [[files]]
+file = ".minecraft/configureddefaults/config/betterf3.json"
+hash = "512f6d274b00bedc700ec8e74ce83e696664f0d9f4c697b1b41a89a69da8f9b5"
+
+[[files]]
+file = ".minecraft/configureddefaults/config/minihud.json"
+hash = "95149baa5c0711350998a21e230cbf9b0ca9d1be46fc87d3cdd35929e508558b"
+
+[[files]]
+file = ".minecraft/configureddefaults/config/sodium-extra-options.json"
+hash = "d07d8ae3280fff966dc3bca2d7cec1e70b944b23b8c61d345d91399e15948f8a"
+
+[[files]]
+file = ".minecraft/configureddefaults/config/sodium-options.json"
+hash = "81beb3f57abbd189da64708f8436d9568d816278b08c4883a1c6151c9e69d184"
+
+[[files]]
+file = ".minecraft/configureddefaults/config/voxy-config.json"
+hash = "601504f04f4a45aef3e04f6c8f927921159c37faab5029ed5d4a7d71b3d9a7d3"
+
+[[files]]
+file = ".minecraft/configureddefaults/config/zoomify.json"
+hash = "60a78fe1b271ce9b53e295235eb5a7cdb3a8692ca583fdaa7f5bc09f9049e2f4"
+
+[[files]]
+file = ".minecraft/configureddefaults/hotbar.nbt"
+hash = "5167f62115690e38d02d08c9bf87c5b4900b5bdcc29a253de77e477c66c4e0ee"
+
+[[files]]
+file = ".minecraft/configureddefaults/icon.png"
+hash = "bf6ae7e3618e9bcd7fca35f43ed4001f396734bdd1c0548fba90b483d91bcfae"
+
+[[files]]
 file = ".minecraft/configureddefaults/journeymap/config/6.0/journeymap.core.config"
 hash = "100a1bfb658093d203033a0b83e3757d8182ade733cf953cfbaa216e23018ef2"
 
@@ -57,6 +89,14 @@ file = ".minecraft/configureddefaults/journeymap/server/6.0/journeymap.server.mi
 hash = "d59cbe25cd1703999467943f7f5dc1e3ae63af8ea36bfd3913897d0b7cb92f67"
 
 [[files]]
+file = ".minecraft/configureddefaults/options.txt"
+hash = "564093493410fc9da2e29a6870b344bed2271813fa764227246c22f53c0ba365"
+
+[[files]]
+file = ".minecraft/configureddefaults/resourcepacks/Faithful 64x - September 2025 Release.zip"
+hash = "3e49ac823a44c92fa22d2dfec714f0ba7ddff19f6c0525f69c21897c8d926a59"
+
+[[files]]
 file = ".minecraft/configureddefaults/servers.dat"
 hash = "9bcd77b4adc50ca8c5cf74110314efaf99a184b7bdbe2ad62f52756f561ad955"
 
@@ -67,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/axiom.pw.toml"
-hash = "d1eb0dbf966090d95b6658a1ded6580b0e2afc73f4bd1d1bff8b9433050068ac"
+hash = "6dad7dc41638fd81aa79900ee121b73e60f38442f03bb714a373f5647b2a354d"
 metafile = true
 
 [[files]]
@@ -157,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/packwiz-server-updater.pw.toml"
-hash = "ac5a21515f286204ed7e05d1e6890897ad3055f0077974d7af69aaf26e874ff5"
+hash = "2b42b356f82c4a16157599e622bc4ab7a759a1b15766ca0aa453bf5b36a18a4f"
 metafile = true
 
 [[files]]
@@ -172,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/servux.pw.toml"
-hash = "40851322be130d051190af0a939c36799d676e94c1ae3e555eacefe1ff28648c"
+hash = "1c2a209ae46e35a49781a5c569d4be87661b5c78b07faa62f7b4300ec85f01e2"
 metafile = true
 
 [[files]]
@@ -197,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "dba564c761870715c46e527e182ece9d0c50ae96c8c4e3af3f2b567e2816565d"
+hash = "b6637110509503de5c77ce30430a21a4d2570d33c8589087f9384eb04995ec3e"
 metafile = true
 
 [[files]]
