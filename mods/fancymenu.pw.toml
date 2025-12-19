@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Wq5SjeWM/versions/wQfYaY3H/fancymenu_fabric_3.8.2_MC_1.21.10.jar"
-hash-format = "sha512"
-hash = "c7e3d8287fbc80b52ee88b137b43bf3d602ddb79bf9437c9373e1f666ccecb7624fc0d8cb5a823036c475899a8898c91fc3f78145234a78b09d7faf592306b79"
+hash-format = "sha256"
+hash = "2872a73aba232f1ec426f971f9291ba4935e65a0c9acbd7891ef9a7dc8a3ceba"
 
 [update]
 [update.modrinth]

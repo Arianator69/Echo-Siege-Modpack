@@ -5,8 +5,8 @@ pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/N6n5dqoA/versions/lTAyg01U/Axiom-5.2.1-for-MC1.21.10.jar"
-hash-format = "sha512"
-hash = "2fe925f70e3a531e2c1244ef4865341af5d860c9663456726dd4ee20027ef8fd6cef5cc1f90a2322f91dae4a745cdb97494ee2a851a99980ec3e3ecdf287848c"
+hash-format = "sha256"
+hash = "d765dc032d37f624c9b46c644c8b7e8d55364bcf41dea32572c521df53aac5e5"
 
 [update]
 [update.modrinth]

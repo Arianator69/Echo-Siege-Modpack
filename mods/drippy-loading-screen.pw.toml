@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/v3CYg2V9/versions/m2WyWgf2/drippyloadingscreen_fabric_3.1.0_MC_1.21.10.jar"
-hash-format = "sha512"
-hash = "0ac79054ee20a9cf441c0d7409a74cc699a6c8a8c2c0a768cdf9f89064894352c0b2adc0c82bdc91102411840279dc9afd7a0714ba43439c1a2c53bbda85cfad"
+hash-format = "sha256"
+hash = "e37d96647dd1e916f7647677833e8a7bf6e387999239955e37789564c3725ebb"
 
 [update]
 [update.modrinth]

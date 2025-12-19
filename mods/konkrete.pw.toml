@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/J81TRJWm/versions/kLTIGlRD/konkrete_fabric_1.9.13_MC_1.21.10.jar"
-hash-format = "sha512"
-hash = "1f7a92030d323de78214347973a966bce6fcef0e043b7eff58539772bf27935a66f19f3ae513f66070b3296b5028c626a7495ce7f7efde70edf19e6923ee3536"
+hash-format = "sha256"
+hash = "100b0d0593f213b3018f4f73c04f4f8cd8937d22d053bcbf7ab37bd7fb475f18"
 
 [update]
 [update.modrinth]

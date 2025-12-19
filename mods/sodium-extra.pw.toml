@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/8CGTW5B3/sodium-extra-fabric-0.7.1%2Bmc1.21.10.jar"
-hash-format = "sha512"
-hash = "9b583ffd3e43f693366482597277fe9523c50b6f71fd1d67fe949e4929f9ad1605f5646c1c70f1bd62c0aeb7452c1956d6255c81c57ea9fc2a35af407722d025"
+hash-format = "sha256"
+hash = "56ee539b2c109bb78c3e4b9d172c81a4181b1c2079a106d2c94d6ce828a770ed"
 
 [update]
 [update.modrinth]

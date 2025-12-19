@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/2K2sAo8i/versions/iBEY9uzO/DINE-fabric-1.21.10-1.0.4.jar"
-hash-format = "sha512"
-hash = "1c2e7794f2f6be44ad9acbaa869be28e346d151d9842c3dbb6b020ce0ce7ee1b24ec3b811c522745fd29fd9d3948d7e1ffaba3494caafab1c58ece98dd1f14c1"
+hash-format = "sha256"
+hash = "ddadc9767ef66f59e524e5a3d7a5f62039716ff594e5f3678d6dec7b8f4cdaf5"
 
 [update]
 [update.modrinth]

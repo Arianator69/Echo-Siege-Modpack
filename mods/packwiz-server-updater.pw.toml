@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/gJUTDRJj/versions/GnVhorRV/packwizsu-3.0.0%2B1.21.4.jar"
-hash-format = "sha512"
-hash = "b86595435c23a1eafde416fefa2b10537c400f9fe351bca8694c08bbbcf91637290598b370b9f99659f4ee21e6855a7a18f92caffccad699ad8bf78f679c0534"
+hash-format = "sha256"
+hash = "e04a22d47d80157767a734e78a8fb46bb8f05aa77dbf783beeed5368cdefa98b"
 
 [update]
 [update.modrinth]
