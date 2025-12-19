@@ -1,15 +1,63 @@
 hash-format = "sha256"
 
 [[files]]
-file = "configureddefaults/README.md"
+file = ".minecraft/configureddefaults/README.md"
 hash = "7d856d3f9655abc661ac67b450a0c956bbf80323786b407301fbdca02d2c5b8b"
 
 [[files]]
-file = "configureddefaults/resourcepacks/Faithful 64x - September 2025 Release.zip"
-hash = "3e49ac823a44c92fa22d2dfec714f0ba7ddff19f6c0525f69c21897c8d926a59"
+file = ".minecraft/configureddefaults/journeymap/config/6.0/journeymap.core.config"
+hash = "100a1bfb658093d203033a0b83e3757d8182ade733cf953cfbaa216e23018ef2"
 
 [[files]]
-file = "configureddefaults/servers.dat"
+file = ".minecraft/configureddefaults/journeymap/config/6.0/journeymap.fullmap.config"
+hash = "d69c664aee3818c283283d635f3c570e516e207be74abc5e63869bee1d82859b"
+
+[[files]]
+file = ".minecraft/configureddefaults/journeymap/config/6.0/journeymap.minimap.config"
+hash = "f67a65fdd7b2799365dfb1f0fc1e25296089032b3653628231afecb1c4ac13b7"
+
+[[files]]
+file = ".minecraft/configureddefaults/journeymap/config/6.0/journeymap.minimap2.config"
+hash = "dc44acf211f9942241b6882b9f5dfa2a92557c9adedc6a2ed622bf6ba28fc653"
+
+[[files]]
+file = ".minecraft/configureddefaults/journeymap/config/6.0/journeymap.rendering.config"
+hash = "59139373798af345188a9a11a0dd317ae39a5749d575cb0dbbfd481732c5caf7"
+
+[[files]]
+file = ".minecraft/configureddefaults/journeymap/config/6.0/journeymap.topo.config"
+hash = "2f6e8125fa9f35e0c700d49c908e0d60216d6d1cced17701351a174995570535"
+
+[[files]]
+file = ".minecraft/configureddefaults/journeymap/config/6.0/journeymap.waypoint.config"
+hash = "7287dec673c3f9a35552561364163420f5eb7a4849cd4e3a7cafe6191210b38f"
+
+[[files]]
+file = ".minecraft/configureddefaults/journeymap/config/6.0/journeymap.webmap.config"
+hash = "17fbf319709adeec6b71ead4ed0a2fc37210795257ab370c251ec36893c2253c"
+
+[[files]]
+file = ".minecraft/configureddefaults/journeymap/server/6.0/journeymap.server.default.config"
+hash = "55a7dcffc836d0ab16a9c24ed06f5aebb7cc93c3f16b2d52c821090866958bb3"
+
+[[files]]
+file = ".minecraft/configureddefaults/journeymap/server/6.0/journeymap.server.global.config"
+hash = "6f17596012f9e1b4745bd29fe25d7c4e9d212e4cde6451f737dc2afe0441f072"
+
+[[files]]
+file = ".minecraft/configureddefaults/journeymap/server/6.0/journeymap.server.minecraft~overworld.config"
+hash = "c4f3b8db82ef017cb0d85806a2f12d6e0e240feb6ac582eb2050ce2bc027f2f3"
+
+[[files]]
+file = ".minecraft/configureddefaults/journeymap/server/6.0/journeymap.server.minecraft~the_end.config"
+hash = "05e11170b8375bfa0c184d8848e27688907b99d7e5052c70d7e0e98144d45052"
+
+[[files]]
+file = ".minecraft/configureddefaults/journeymap/server/6.0/journeymap.server.minecraft~the_nether.config"
+hash = "d59cbe25cd1703999467943f7f5dc1e3ae63af8ea36bfd3913897d0b7cb92f67"
+
+[[files]]
+file = ".minecraft/configureddefaults/servers.dat"
 hash = "9bcd77b4adc50ca8c5cf74110314efaf99a184b7bdbe2ad62f52756f561ad955"
 
 [[files]]
@@ -43,6 +91,11 @@ hash = "9bc273d7e8139c973608f4556608e36e271f309d5a8fcc075322bcc4b20fe43d"
 metafile = true
 
 [[files]]
+file = "mods/drippy-loading-screen.pw.toml"
+hash = "2a0d024278845ed23070934a96696d084d69bdf3ce5a5dec287c8c22d1abe79a"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "0345fbfa8542b5ec84535fe2aff0f5cc4e801ecc337f926d4e2310b53f458569"
 metafile = true
@@ -50,6 +103,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "61afd7af5c645ffd966b2bd86be944eacd1e48a8044e8f67082225d4d9989f0c"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "4572d73d803955f600784da52ab300a70479f7873c1ca2bf362cd2706756b467"
 metafile = true
 
 [[files]]
@@ -68,8 +126,18 @@ hash = "eea37b6a60c019badb137a3e682461cab98ff7cb2e676620cb9fd649d21971d4"
 metafile = true
 
 [[files]]
+file = "mods/konkrete.pw.toml"
+hash = "979df86859d3a30ed4cae905f1e0b0bd2f06751fb9ed4de302a52c6285a0691c"
+metafile = true
+
+[[files]]
 file = "mods/malilib.pw.toml"
 hash = "bda12a83dc36c4a8e5b45438700b54bf21c182d923f7f8255570893628281e06"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "7ff35cde15036641fbd5c677962321fa5cfc4da8d5c71193b670d4f15a981577"
 metafile = true
 
 [[files]]

@@ -3,11 +3,9 @@
 
 # Exclude README
 *readme.md
-/.vscode
-/.github*
-config/
-journeymap/
-/resourcepacks
+.vscode
+.github*
+resourcepacks/
 *.nbt
 *.png
 *.json
